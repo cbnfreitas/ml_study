@@ -1,0 +1,30 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python",
+  "python.analysis.diagnosticMode": "workspace",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    },
+  },
+  "isort.args":["--profile", "black"],
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.tree.indent": 12,
+  "workbench.colorCustomizations": {
+    "[Default Dark+]": {
+      "titleBar.activeBackground": "#4a51d8"
+    }
+  },
+  "rest-client.previewResponsePanelTakeFocus": false,
+  "rest-client.rememberCookiesForSubsequentRequests": true,
+  "material-icon-theme.folders.associations": {
+    "route": "routes",
+    "lab": "meta",
+    "http": "api",
+  }, 
+}

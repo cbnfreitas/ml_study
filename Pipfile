@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+ipykernel = "*"
+autopep8 = "*"
+black = "*"
+isort = "*"
+pytest = "*"
+jupyterlab = "*"
+
+[packages]
+numpy = "*"
+mypy = "*"
+pydantic = "*"
+
+[requires]
+python_version = "3.12.4"
