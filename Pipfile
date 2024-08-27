@@ -18,6 +18,7 @@ pydantic = "*"
 statsmodels = "*"
 matplotlib = "*"
 scikit-learn = "*"
+xgboost = "*"
 
 [requires]
 python_version = "3.12.4"
