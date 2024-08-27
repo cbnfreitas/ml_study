@@ -17,6 +17,7 @@ mypy = "*"
 pydantic = "*"
 statsmodels = "*"
 matplotlib = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.12.4"
