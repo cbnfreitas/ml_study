@@ -19,6 +19,8 @@ statsmodels = "*"
 matplotlib = "*"
 scikit-learn = "*"
 xgboost = "*"
+tensorflow = "*"
+shap = "*"
 
 [requires]
 python_version = "3.12.4"
