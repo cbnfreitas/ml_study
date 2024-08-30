@@ -2,13 +2,13 @@
 
 [ANÁLISE TÉCNICA DE EDITAL: BNDES / Ciência de Dados || TI Descomplicada](https://www.youtube.com/watch?v=MeY9uYnqKUk)
 
-# I - Matemática
+# I - Matemática, 31/08
 
 ![alt text](image.png)
 
 - SVD, PCA, Autovalores autovetores, L1, L2
 
-## Q Fazer 3 integrais
+## Q Fazer 3 integrais, 
 
 ![alt text](image-3.png)
 
@@ -20,7 +20,7 @@
 
 ![alt text](image-4.png)
 
-# II - Probabilidade e Estatística
+# II - Probabilidade e Estatística, 02/09
 
 ![alt text](image-5.png)
 
