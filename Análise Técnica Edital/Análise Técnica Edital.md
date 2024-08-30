@@ -175,7 +175,7 @@
 
 ![alt text](image-30.png)
 
-# VIII - Classes de modelos
+# VIII - Classes de modelos (a)
 
 ![alt text](image-31.png)
 
@@ -193,4 +193,96 @@
 ## Q3
 
 ![alt text](image-34.png)
+
+# VIII - Classes de modelos (b)
+
+![alt text](image-35.png)
+
+- diferenças entre GRU, GAN, LSTM, etc.
+- aprendizado por reforço (otimização de carteira)
+- ICP, especificações do OCR
+- Quantificação de incertezas, muito difícil! Modelos de markov ocultos (conceito)
+
+## Q1
+
+![alt text](image-36.png)
+
+## Q2
+
+![alt text](image-37.png)
+
+- GAN, gera amostras sintéticas: Gerador e discreminador
+
+## Q3
+
+![alt text](image-40.png)
+
+## Q4
+
+![alt text](image-41.png)
+
+# IX - Processamento de Linguagem Natural (NLP)
+
+- NER: name entity recognition. RAG
+- Agentes de IA: consulta especializada
+
+
+## Q1
+
+![alt text](image-42.png)
+
+## Q2
+
+![alt text](image-43.png)
+
+- Zero/few shot learning, transfer learning, gpt 3
+
+## Q3
+
+![alt text](image-44.png)
+
+## Q4
+
+![alt text](image-45.png)
+
+
+# X - Programação e Ferramentas
+
+![alt text](image-46.png)
+
+- Sintaxe de criação de redes neurais. Keras
+
+
+## Q1
+
+![alt text](image-47.png)
+
+
+## Q2
+
+![alt text](image-48.png)
+
+## Q3
+
+![alt text](image-49.png)
+
+# XI - Visualização; Storytelling
+
+![alt text](image-50.png)
+
+## Q1
+
+![alt text](image-51.png)
+
+## Q2
+
+![alt text](image-52.png)
+
+## Q3
+
+![alt text](image-53.png)
+
+## Q4
+
+![alt text](image-54.png)
 
